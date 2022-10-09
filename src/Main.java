@@ -92,6 +92,8 @@ public class Main {
         System.out.println("Кристина теперь получает " + cristinaAfter + " рублей. " +
                 "Годовой доход вырос на " + cristinaDif + " рублей");
 
+        
+
 
 
 
